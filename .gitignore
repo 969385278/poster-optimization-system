@@ -1,0 +1,11 @@
+node_modules/
+dist/
+logs/
+outputs/
+
+.env
+
+*.log
+*.bak
+*.corrupted
+*.pre-rewrite
